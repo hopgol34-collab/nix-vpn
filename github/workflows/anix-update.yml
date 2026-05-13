@@ -1,0 +1,31 @@
+name: ❄️ Nix VPN Auto-Update
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate fresh Nix VPN configs
+        run: |
+          echo "# profile-title: ❄️ Nix VPN ❄️ | Обновление каждый час" > nix-vpn.txt
+          echo "# profile-update-interval: 1" >> nix-vpn.txt
+          echo "# Date/Time: $(date -u '+%Y-%m-%d / %H:%M (UTC)')" >> nix-vpn.txt
+          echo "" >> nix-vpn.txt
+          
+          curl -s "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/configs.txt" | \
+            grep -E '^(vless|vmess|trojan|hysteria2)://' >> nix-vpn.txt
+      
+      - name: Commit and push
+        run: |
+          git config user.name "Nix-VPN-Bot"
+          git config user.email "bot@nix-vpn.local"
+          git add nix-vpn.txt
+          git diff --staged --quiet || git commit -m "❄️ Nix VPN auto-update $(date -u '+%Y-%m-%d %H:%M:%S')"
+          git push
