@@ -1,12 +1,22 @@
-# profile-title: ❄️ Nix VPN ❄️ | Белые списки | Обновление каждый час
+# profile-title: ❄️ NIX VPN ❄️ | Белые списки | Обновление: 31.05.2026
 # profile-update-interval: 1
-# Date/Time: 2026-05-26 / 10:00 (Moscow)
+# Date/Time: 2026-05-31 / 15:30 (Moscow)
+# For more info - t.me/nix_vpn
 
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&host=top3739667002.mwscdn.ru&path=%2Flivestreamcontent%2F&sni=top3739667002.mwscdn.ru#❄️%20Nix%20VPN%20-%20Moldova
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?security=false&fp=chrome&type=tcp&host=ru3.alexanderoff.ru#❄️%20Nix%20VPN%20-%20Russia
-vless://bfedca03-3fef-445b-b239-10567bf06b56@multi.fresedvpn.site:50080?type=tcp&security=reality&fp=chrome&pbk=QEHjf8fJnCIVdInFNhwCieIdDHyAUKPj_rfUmCIhaSY&sid=86a35983e5612d8b&sni=api-maps.yandex.ru#❄️%20Nix%20VPN%20-%20Anycast%201
-vless://bfedca03-3fef-445b-b239-10567bf06b56@multi.fresedvpn.site:22736?type=tcp&security=reality&fp=chrome&pbk=QEHjf8fJnCIVdInFNhwCieIdDHyAUKPj_rfUmCIhaSY&sid=9f75ffb020ad2856&sni=api-maps.yandex.ru#❄️%20Nix%20VPN%20-%20Anycast%202
-vless://bfedca03-3fef-445b-b239-10567bf06b56@multi.fresedvpn.site:16972?type=tcp&security=reality&fp=chrome&pbk=QEHjf8fJnCIVdInFNhwCieIdDHyAUKPj_rfUmCIhaSY&sid=4f984d9bffdf4ff3&sni=api-maps.yandex.ru#❄️%20Nix%20VPN%20-%20Anycast%203
-hysteria2://AXLrrPiPOzZhWdbDRrGEfjDK-56U_H2y@multi.fresedvpn.site:24080?sni=multi.fresedvpn.site#❄️%20Nix%20VPN%20-%20Hy2%201
-hysteria2://AXLrrPiPOzZhWdbDRrGEfjDK-56U_H2y@multi.fresedvpn.site:32080?sni=multi.fresedvpn.site#❄️%20Nix%20VPN%20-%20Hy2%202
-trojan://fGLB_0ycPhBfHRNUwgHAu1KVvjpZSdmm@multi.fresedvpn.site:56443?security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=2eYi7TWcvCO3zTXZmk13VH-QL5-oDYJ6w9UQxclygFE&sid=60c859d29876dcf7&type=tcp#❄️%20Nix%20VPN%20-%20Trojan%201
+vless://56470441-5d85-4266-89f3-c2b5b000c522@128.75.228.189:443?encryption=none&type=xhttp&security=tls&host=ftatx5g6dt.cdn.twcstorage.ru&path=/&fp=chrome&sni=ftatx5g6dt.cdn.twcstorage.ru#❄️%20NIX%20VPN%20-%20Czechia%20(Beeline)
+vless://157bb36f-035e-405c-b8c6-67fa1a7c0640@81.19.137.63:6443?extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&fp=chrome&mode=auto&pbk=YJ9I6GzZ_xT_Rk8We8iR1CwEMbzF4I30i_EH2VOVY0Y&security=reality&sid=abab34c40ed6c10a&sni=github.com&type=xhttp#❄️%20NIX%20VPN%20-%20France
+vless://2ce70f60-6145-4730-97e1-a38cb5dd2afc@5.188.114.12:2443?encryption=none&type=ws&security=none#❄️%20NIX%20VPN%20-%20Germany
+vless://d0b60427-ccb0-4026-aeec-d095b6b7dd08@lv.srv.vpnza300.org:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=lv.srv.vpnza300.org&fp=firefox&pbk=4Y1wdeQGqDecReK5UrA5RV7Dcq9QnfuArtSzujdJbXo&sid=6eda877655137aff#❄️%20NIX%20VPN%20-%20Latvia
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.103.208:443?security=reality&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#❄️%20NIX%20VPN%20-%20Poland
+vless://e122b04e-2ea2-45bb-8ff0-7230fb3df728@185.141.227.151:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=9c53f06d3778f173&type=tcp#❄️%20NIX%20VPN%20-%20Poland%20(CDN)
+vless://157bb36f-035e-405c-b8c6-67fa1a7c0640@213.165.37.30:6443?extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&fp=chrome&mode=auto&pbk=YJ9I6GzZ_xT_Rk8We8iR1CwEMbzF4I30i_EH2VOVY0Y&security=reality&sid=abab34c40ed6c10a&sni=github.com&type=xhttp#❄️%20NIX%20VPN%20-%20Netherlands
+vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@45.144.220.142:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=rutube.ru&type=tcp#❄️%20NIX%20VPN%20-%20Netherlands%20(Rutube)
+vless://5f5d8431-f333-43d6-af84-d3583464edb3@ru.nikelroot.ru:2083?type=tcp&security=reality&sni=salam-ekb-ktc-158.rtbcdn.ru&fp=chrome&pbk=Nv3J4zvyikrGTvcCQhptOAxcd_00-M9zJYj9fg6AQTI&sid=9f62efd763c3&flow=xtls-rprx-vision#❄️%20NIX%20VPN%20-%20Netherlands%20(RT)
+vless://7be400d9-67ad-4819-bd06-c889308f12d0@212.233.99.62:443?encryption=none&type=xhttp&security=reality&host=vk.com&path=/api/v1/abf98177&fp=chrome&sni=vk.com&pbk=iIhrPpoPQN1gDf8coQ8o54-oTRdYFpLD7I7e9tHF0EE&sid=a977328085692dc8#❄️%20NIX%20VPN%20-%20USA%20(VK)
+vless://228ecfd3-9bf0-42fd-a50e-581f84022513@157.22.241.46:12444?flow=xtls-rprx-vision&fp=chrome&pbk=dYmNf0AA5qgV2ct3dPCYtxdS2iD3FEUnEs6J1GWe2wU&security=reality&sid=926d63ddd8bcebe1&sni=www.2gis.ru&type=tcp#❄️%20NIX%20VPN%20-%20Russia%20(2GIS)
+vless://2c2d5845-b403-4556-92f0-474bd21084a8@185.242.19.249:443?encryption=none&type=xhttp&security=tls&host=cdnmws-9.fastcon.cc&path=%2Fstorage%2Fblob%2Fv2%2F&fp=chrome&sni=cdnmws-9.fastcon.cc#❄️%20NIX%20VPN%20-%20Russia%20(Fastcon)
+vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@188.225.34.179:443?flow=xtls-rprx-vision&type=tcp&security=reality&sni=rus.scroogethebest.com&fp=chrome&pbk=sbvKAdRy_0h33iRxgGwHAD1HC62WGwlkWwj0S5ptJEU&sid=9c2378562188c3cb#❄️%20NIX%20VPN%20-%20Russia%20(Scrooge)
+vless://cb44ce9f-18b1-49cd-a489-61892a7b8fce@82.202.137.132:443?encryption=none&type=xhttp&security=reality&host=vk.com&path=%2F&fp=chrome&sni=yandex.ru&pbk=SQo6HHEMN-eGaCOdmN0_CX9F3cbCje4gVwuCrKh1MFU&sid=de#❄️%20NIX%20VPN%20-%20Russia%20(Yandex)
+vless://10132cf6-6536-4c45-8d75-c90f91a1c5d6@37.139.34.63:5969?encryption=none&type=xhttp&security=reality&path=%2Fbridge-xhttp&fp=chrome&sni=surfvpn24.ru&pbk=lPTd0_SulMMhWfRHF4tjsv5iM06hU1bDJv8aPaBipEw&sid=c19de8fa#❄️%20NIX%20VPN%20-%20Russia%20(VK)
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HtfCfh7EgUG9sYW5kIHwgWypDSURSXSIsImFkZCI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJwb3J0IjoiNDQzIiwiaWQiOiJkZjljOTM1NS1iMDJjLTRjMTItOTA5ZC0wZGJlYjcyNWQ1MmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIn0=#❄️%20NIX%20VPN%20-%20Netherlands%20(VMess)
+trojan://humanity@212.183.88.136:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com#❄️%20NIX%20VPN%20-%20France%20(Trojan)
