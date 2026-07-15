@@ -1,4 +1,4 @@
-# profile-title: nix-vpn
+# profile-title: ❄️ Nix VPN
 # profile-update-interval: 1
 # Date/Time: 2026-07-15 / 07:58 (Moscow)
 # Количество: 150
